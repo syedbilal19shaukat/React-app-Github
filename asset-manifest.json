@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/syedbilal19shaukat.github.io/React-app-Github/static/css/main.3b6ca632.chunk.css",
+    "main.js": "/syedbilal19shaukat.github.io/React-app-Github/static/js/main.7dc1ffb8.chunk.js",
+    "main.js.map": "/syedbilal19shaukat.github.io/React-app-Github/static/js/main.7dc1ffb8.chunk.js.map",
+    "runtime-main.js": "/syedbilal19shaukat.github.io/React-app-Github/static/js/runtime-main.7b26d327.js",
+    "runtime-main.js.map": "/syedbilal19shaukat.github.io/React-app-Github/static/js/runtime-main.7b26d327.js.map",
+    "static/js/2.88c4bf8b.chunk.js": "/syedbilal19shaukat.github.io/React-app-Github/static/js/2.88c4bf8b.chunk.js",
+    "static/js/2.88c4bf8b.chunk.js.map": "/syedbilal19shaukat.github.io/React-app-Github/static/js/2.88c4bf8b.chunk.js.map",
+    "index.html": "/syedbilal19shaukat.github.io/React-app-Github/index.html",
+    "precache-manifest.91f6e053dc69b5c9e42ec8cc3808e83e.js": "/syedbilal19shaukat.github.io/React-app-Github/precache-manifest.91f6e053dc69b5c9e42ec8cc3808e83e.js",
+    "service-worker.js": "/syedbilal19shaukat.github.io/React-app-Github/service-worker.js",
+    "static/css/main.3b6ca632.chunk.css.map": "/syedbilal19shaukat.github.io/React-app-Github/static/css/main.3b6ca632.chunk.css.map",
+    "static/js/2.88c4bf8b.chunk.js.LICENSE.txt": "/syedbilal19shaukat.github.io/React-app-Github/static/js/2.88c4bf8b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/syedbilal19shaukat.github.io/React-app-Github/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b26d327.js",
+    "static/js/2.88c4bf8b.chunk.js",
+    "static/css/main.3b6ca632.chunk.css",
+    "static/js/main.7dc1ffb8.chunk.js"
+  ]
+}
